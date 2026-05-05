@@ -1,0 +1,39 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1512977208
+host=83.42.205.142
+name=Main.DiariDunaTipo
+rev=9
+targets=
+text='+Diari d'una tipo+'%0a%0aDiari d'una tipo és un projecte centrat en treballar la tipografia, la paraula com a imatge buscant una relació plàstica entre el concepte, la tècnica de reproducció i la creació digital. Entés com un llibre de proves buscant la plasticitat de la imatge i la seua relació en la representació gràfica.%0a\\%0a\\%0aDiario de una tipo es un proyecto que se centra en trabajar la tipografia, la palabra como una imagen buscando una relación plástica entre el concepto, la técnica de reproducción y la creación digital. Entendido como un libro de pruebas buscando la plasticidad de la imagen y su relación en la representación plástica.%0a%0a%0a!!Objectius%0a* A partir d'un concepte establir una sèrie de relacions entre la imatge de la lletra i els diferents resultats, possibilitats que s'obtenen gràficament.%0a* Imprimir i documentar el procés de creació utilitzant vàries tècniques si cal i llenguatges gràfics.%0a* Entendre i treballar amb l'objecte PFont i la tipografia dins de la programació en Processing. %0a%0a!!Continguts%0a* Treballar amb l'objecte PFont i les propietats del text.%0a* Utilització de la llibreria Geomerative.%0a* Maquetar i relacionar la construcció de la font i la seua maquetació.%0a%0a!!Finals%0a* Vídeo, pujat a una plataforma online.%0a* Final en paper.%0a%0a!!Treballs%0a*[['''Bambolles'''->https://www.youtube.com/watch?v=UPEQrEU03cU&feature=youtu.be]],Sílvia Garzó%0a*[['''Sabores'''->https://vimeo.com/246894339]],Ana Tortosa%0a*[['''Let it go'''->https://www.youtube.com/watch?v=SXC_wPexeMU&feature=youtu.be]],Arturo Martínez%0a*[['''Childhood'''->https://vimeo.com/246854846]], Isabel María Ferrándiz%0a*[['''Crazy'''->https://vimeo.com/246886414]], Alexia Olcina%0a*[['''Destrucción tipográfica'''->https://vimeo.com/246851407]], Laura Calbo%0a*[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a*[['''Planetas'''->https://www.youtube.com/watch?v=zVIZCrrDyEs]], Isabel Román
+time=1513064874
+author:1513064874=larural
+diff:1513064874:1513063912:=30,31c30%0a%3c *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a%3c *[['''Planetas'''->https://www.youtube.com/watch?v=zVIZCrrDyEs]], Isabel Román%0a\ No newline at end of file%0a---%0a> *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a\ No newline at end of file%0a
+host:1513064874=83.42.205.142
+author:1513063912=larural
+diff:1513063912:1513063767:=25c25%0a%3c *[['''Sabores'''->https://vimeo.com/246894339]],Ana Tortosa%0a---%0a> *[['''Sabores'''->https://vimeo.com/246894339 ]],Ana Tortosa%0a
+host:1513063912=83.42.205.142
+author:1513063767=larural
+diff:1513063767:1513063746:=30c30%0a%3c *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a\ No newline at end of file%0a---%0a> *[['''The Wild Type''']], Cristina Peinado%0a\ No newline at end of file%0a
+host:1513063767=83.42.205.142
+author:1513063746=larural
+diff:1513063746:1513063500:=26,30c26%0a%3c *[['''Let it go'''->https://www.youtube.com/watch?v=SXC_wPexeMU&feature=youtu.be]],Arturo Martínez%0a%3c *[['''Childhood'''->https://vimeo.com/246854846]], Isabel María Ferrándiz%0a%3c *[['''Crazy'''->https://vimeo.com/246886414]], Alexia Olcina%0a%3c *[['''Destrucción tipográfica'''->https://vimeo.com/246851407]], Laura Calbo%0a%3c *[['''The Wild Type''']], Cristina Peinado%0a\ No newline at end of file%0a---%0a> *[['''Let it go'''->https://www.youtube.com/watch?v=SXC_wPexeMU&feature=youtu.be]],Arturo Martínez%0a\ No newline at end of file%0a
+host:1513063746=83.42.205.142
+author:1513063500=larural
+diff:1513063500:1513063447:=26c26%0a%3c *[['''Let it go'''->https://www.youtube.com/watch?v=SXC_wPexeMU&feature=youtu.be]],Arturo Martínez%0a\ No newline at end of file%0a---%0a> *[[]],%0a\ No newline at end of file%0a
+host:1513063500=83.42.205.142
+author:1513063447=larural
+diff:1513063447:1513063360:=24,26c24,25%0a%3c *[['''Bambolles'''->https://www.youtube.com/watch?v=UPEQrEU03cU&feature=youtu.be]],Sílvia Garzó%0a%3c *[['''Sabores'''->https://vimeo.com/246894339 ]],Ana Tortosa%0a%3c *[[]],%0a\ No newline at end of file%0a---%0a> *['''Bambolles'''->https://www.youtube.com/watch?v=UPEQrEU03cU&feature=youtu.be],Sílvia Garzó%0a> *%0a\ No newline at end of file%0a
+host:1513063447=83.42.205.142
+author:1513063360=larural
+diff:1513063360:1513011998:=22,25d21%0a%3c %0a%3c !!Treballs%0a%3c *['''Bambolles'''->https://www.youtube.com/watch?v=UPEQrEU03cU&feature=youtu.be],Sílvia Garzó%0a%3c *%0a\ No newline at end of file%0a
+host:1513063360=83.42.205.142
+author:1513011998=larural
+diff:1513011998:1512977208:=
+host:1513011998=5.40.185.220
+author:1512977208=larural
+diff:1512977208:1512977208:=1,21d0%0a%3c '+Diari d'una tipo+'%0a%3c %0a%3c Diari d'una tipo és un projecte centrat en treballar la tipografia, la paraula com a imatge buscant una relació plàstica entre el concepte, la tècnica de reproducció i la creació digital. Entés com un llibre de proves buscant la plasticitat de la imatge i la seua relació en la representació gràfica.%0a%3c \\%0a%3c \\%0a%3c Diario de una tipo es un proyecto que se centra en trabajar la tipografia, la palabra como una imagen buscando una relación plástica entre el concepto, la técnica de reproducción y la creación digital. Entendido como un libro de pruebas buscando la plasticidad de la imagen y su relación en la representación plástica.%0a%3c %0a%3c %0a%3c !!Objectius%0a%3c * A partir d'un concepte establir una sèrie de relacions entre la imatge de la lletra i els diferents resultats, possibilitats que s'obtenen gràficament.%0a%3c * Imprimir i documentar el procés de creació utilitzant vàries tècniques si cal i llenguatges gràfics.%0a%3c * Entendre i treballar amb l'objecte PFont i la tipografia dins de la programació en Processing. %0a%3c %0a%3c !!Continguts%0a%3c * Treballar amb l'objecte PFont i les propietats del text.%0a%3c * Utilització de la llibreria Geomerative.%0a%3c * Maquetar i relacionar la construcció de la font i la seua maquetació.%0a%3c %0a%3c !!Finals%0a%3c * Vídeo, pujat a una plataforma online.%0a%3c * Final en paper.%0a
+host:1512977208=83.42.205.142

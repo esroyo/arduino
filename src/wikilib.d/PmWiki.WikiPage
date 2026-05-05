@@ -1,0 +1,10 @@
+version=pmwiki-2.3.29 ordered=1 urlencoded=1
+author=Petko
+charset=UTF-8
+csum=Special Pages not in distribution, use intermap link (+0)
+name=PmWiki.WikiPage
+post= Save
+rev=24
+targets=PmWiki.WikiStructure,PmWiki.WikiWikiWeb,PmWiki.MarkupMasterIndex,PmWiki.GroupHeaders,PmWiki.Skins,PmWiki.SpecialPages,Cookbook.EditTemplates,PmWiki.PageFileFormat,PmWiki.FlatFileAdvantages
+text=(:Summary: Wiki page information:)%0aA WikiPage is simply the basic building block of a WikiWikiWeb that contains text and images. See [[WikiStructure]]s and [[WikiWikiWeb]] for more information.%0aA wiki page can have a substructure that includes sections for a header (for the entire wiki, or wiki groups), footer (for the entire wiki, or wiki groups), sidebars (left or right or both), and body. %0a%0aAn example of a wiki page structure%0a(:table border=1:)%0a(:cellnr colspan=3 class=center:) Wiki header %0a(:cellnr rowspan=3 class=center:) Wiki sidebar 1\\%0a(optional)%0a(:cell class=center:)Wiki group header%0a(:cell rowspan=3 class=center:) Wiki sidebar 2\\%0a(optional)%0a(:cellnr class=center:) Wiki page body%0a(:cellnr class=center:) Wiki group footer%0a(:cellnr colspan=3 class=center:) Wiki footer%0a(:tableend:)%0a%0aWithin the sections of a wiki page [[PmWiki/MarkupMasterIndex | markup]] is used to provide formatting, layout, and if required additional structure.%0aSee [[PmWiki:Special Pages]] for a description of [[PmWiki/GroupHeaders | Group Headers and Footers]], [[PmWiki/Skins | Side bars]], and other components of a wiki page.%0a%0aWiki pages can have an edit template to predefine initial content, see [[Cookbook:Edit Templates]] [-{Cookbook/EditTemplates$:Summary}-]%0a%0aWiki pages are stored in individual flat files, see [[PmWiki/Page File Format]] and [[(PmWiki:)Flat File Advantages]].%0a%0a%0a%0a%0a
+time=1703655286

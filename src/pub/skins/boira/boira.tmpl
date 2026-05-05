@@ -1,0 +1,65 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>$WikiTitle | {$Group} / {$Title} $ActionTitle</title>
+  <meta http-equiv='Content-Style-Type' content='text/css' />
+  <link rel='stylesheet' href='$SkinDirUrl/boira.css' type='text/css' />
+  <!--function:PrintFavicon_MSCS-->
+  <!--function:PrintFavicon_arduino-->
+      <!--HTMLHeader-->
+    </head>
+    <body>
+    <!--function:PrintSpecialNavBar-->
+    <div id='wikiwrapper'>
+    <!--PageHeaderFmt-->
+    <div id='wikiwrapper-header'>
+    <div id='wikihead'>
+      <div id='wikilogo'><a href='{$ScriptUrl}'><img src='$PageLogoUrl'
+    alt='$WikiTitle' border='0' /></a></div>
+  <div id='wikisearch'>
+  <form action='{$ScriptUrl}'>
+    <input type='hidden' name='n' value='{$FullName}' />
+    <input type='hidden' name='action' value='search' />
+    <input type='text' name='q' value='' class='inputbox searchbox' />
+    <input type='submit' class='inputbutton searchbutton'
+      value='$[Search]' /></form></div>
+    </div>
+    </div>
+<!--/PageHeaderFmt-->
+  <div id='wikiwrapper-body'>
+  <table id='wikimid' width='100%' cellspacing='0' cellpadding='0'><tr>
+<!--PageLeftFmt-->
+      <td id='wikileft' valign='top'>
+        <!--wiki:{$Group}.SideBar {$SiteGroup}.SideBar--></td>
+<!--/PageLeftFmt-->
+      <td id='wikibody' valign='top'>
+<!--PageActionFmt-->
+      <div class='breadcrumbs'>
+        <div class='pagegroup'><a href='{$ScriptUrl}/{$Group}'>{$Group}</a> &raquo; <a href='{$ScriptUrl}/{$Group}/{$Name}'>{$Name}</a></div>
+        <div id='wikicmds'><!--wiki:{$Group}.PageActions $[{$SiteGroup}.BoiraPageActions]--></div>
+      </div>
+<!--PageTitleFmt-->
+        <div id='wikititle'>
+        <h1 class='pagetitle'>{$Title}</h1></div>
+<!--PageText-->
+      </td>
+    </tr></table></div>
+<!--PageFooterFmt-->
+  <div id='wikiwrapper-footer'>
+  <div id='wikifoot'>
+    <div class='footnav'>
+      <a rel="nofollow" href='{$PageUrl}?action=edit'>$[Edit]</a> -
+      <a rel="nofollow" href='{$PageUrl}?action=diff'>$[History]</a> -
+      <a rel="nofollow" href='{$PageUrl}?action=print' target='_blank'>$[Print]</a> -
+     <a href='{$ScriptUrl}/$[{$Group}/RecentChanges]' accesskey='$[ak_recentchanges]'>$[Recent Changes]</a> -
+      <a href='{$ScriptUrl}/$[{$SiteGroup}/Search]'>$[Search]</a></div>
+    <div class='lastmod'>$[Page last modified on {$LastModified}]</div>
+    <div class='credits'><a href='http://www.pmwiki.org/' title='Powered by PmWiki'><img src='$SkinDirUrl/images/pmwiki-button.png' width='88' height='31' alt='Powered by PmWiki' /></a> <a href='http://www.pmwiki.org/Cookbook/Boira' title='Boira skin' class='skin'>Boira</a></div>
+  </div>
+  </div>
+<!--HTMLFooter-->
+</div>
+</body>
+</html>

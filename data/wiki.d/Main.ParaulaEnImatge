@@ -1,0 +1,39 @@
+version=pmwiki-2.2.65 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1449948916
+host=5.40.51.1
+name=Main.ParaulaEnImatge
+rev=9
+targets=
+text='+Creació d'una paraula a partir d'elements gràfics generatius.+'%0a%0aLa Paraula en Imatge consistix en relacionar concepte i forma. Utilitzant l'escriptura i tipografia com a eix central. %0aEl tema a partir del qual treballarem i extraurem les paraules a desenvolupar serà la tecnologia a partir dels llenguatges que empren i conceptes que relacionen i que s'han desenvolupat a partir de l'aparició de l'ordinador. Descartant el lèxic que fa referència als dispositius.%0a%0a!!Objectius%0a* Analitzar i entendre la cultura relacionada del s.XXI al voltant de la tecnologia a través del llenguatge.%0a* Conceptualitzar i donar forma als conceptes tecnològics. %0a* Relacionar i utilitzar els conceptes de programació adaptats als termes.%0a* Exportar i imprimir els arxius en .pdf%0a* Guardar l'arxiu en .pde%0a* Comunicar el projecte utilitzant el vídeo, per presentar-ho en la xarxa a la wiki.%0a%0a!!Continguts%0a* Treball amb l'objecte PFont.%0a* Creació de lletres i a partir de formes.%0a* Loading & Displaying fonts.%0a* Atributes fonts.%0a%0a!!Finals%0a* Entregar 3 versions impreses en A-4 %0a* Video explicatiu del procés de creació. On hauran d'aparèixer els finals i les investigacions que s'hagen realitzat.%0a* El codi creat per a la col·lecció haurà d'aparèixer al darrere. S'hauran d'incloure comentaris dins del codi per especificar i definir les parts de la programació.%0a%0a!!Treballs%0a%0a*[['''Xarxa'''->https://vimeo.com/152602754]], María Ibáñez%0a*[['''Loop/Bucle'''->https://vimeo.com/152631118]], Olga Ruiz%0a*[['''Red'''->https://vimeo.com/152314933]], Olga Valdés%0a*[['''AVI'''->https://vimeo.com/152708869]],Paco Soler%0a*[['''Dades'''->https://vimeo.com/152652807]],Sara Belda%0a*[['''Pixel'''->https://vimeo.com/152559402]],Sonia Rama%0a*[['''BlackOut'''->https://www.youtube.com/watch?v=Hi1U5Hls3wk]], %0a*[['''Byte'''->https://vimeo.com/152539001]], Andreu Cuenca%0a*[['''Loop'''->https://vimeo.com/152179464]], Esmeralda Rodríguez%0a
+time=1453718001
+author:1453718001=larural
+diff:1453718001:1453414972:=26a27,28%0a> %0a> %0a27a30%0a> %0a29,35d31%0a%3c *[['''Red'''->https://vimeo.com/152314933]], Olga Valdés%0a%3c *[['''AVI'''->https://vimeo.com/152708869]],Paco Soler%0a%3c *[['''Dades'''->https://vimeo.com/152652807]],Sara Belda%0a%3c *[['''Pixel'''->https://vimeo.com/152559402]],Sonia Rama%0a%3c *[['''BlackOut'''->https://www.youtube.com/watch?v=Hi1U5Hls3wk]], %0a%3c *[['''Byte'''->https://vimeo.com/152539001]], Andreu Cuenca%0a%3c *[['''Loop'''->https://vimeo.com/152179464]], Esmeralda Rodríguez%0a
+host:1453718001=5.40.51.1
+author:1453414972=Olga Ruiz
+diff:1453414972:1453414925:=31c31%0a%3c *[['''Loop/Bucle'''->https://vimeo.com/152631118]], Olga Ruiz%0a---%0a> *[['''Loop/Bucle'''->https://vimeo.com/148602449]], Olga Ruiz%0a
+host:1453414972=80.39.33.55
+author:1453414925=Olga Ruiz
+diff:1453414925:1453401991:=30,31d29%0a%3c %0a%3c *[['''Loop/Bucle'''->https://vimeo.com/148602449]], Olga Ruiz%0a
+host:1453414925=80.39.33.55
+author:1453401991=Maria
+diff:1453401991:1453401925:=29c29%0a%3c *[['''Xarxa'''->https://vimeo.com/152602754]], María Ibáñez%0a---%0a> *[['''Xarxa'''->https://vimeo.com/152602754]]%0a
+host:1453401991=188.77.69.233
+author:1453401925=Maria
+diff:1453401925:1449950448:=26,29d25%0a%3c %0a%3c %0a%3c %0a%3c *[['''Xarxa'''->https://vimeo.com/152602754]]%0a
+host:1453401925=188.77.69.233
+author:1449950448=larural
+diff:1449950448:1449949658:=4,25c4,12%0a%3c El tema a partir del qual treballarem i extraurem les paraules a desenvolupar serà la tecnologia a partir dels llenguatges que empren i conceptes que relacionen i que s'han desenvolupat a partir de l'aparició de l'ordinador. Descartant el lèxic que fa referència als dispositius.%0a%3c %0a%3c !!Objectius%0a%3c * Analitzar i entendre la cultura relacionada del s.XXI al voltant de la tecnologia a través del llenguatge.%0a%3c * Conceptualitzar i donar forma als conceptes tecnològics. %0a%3c * Relacionar i utilitzar els conceptes de programació adaptats als termes.%0a%3c * Exportar i imprimir els arxius en .pdf%0a%3c * Guardar l'arxiu en .pde%0a%3c * Comunicar el projecte utilitzant el vídeo, per presentar-ho en la xarxa a la wiki.%0a%3c %0a%3c !!Continguts%0a%3c * Treball amb l'objecte PFont.%0a%3c * Creació de lletres i a partir de formes.%0a%3c * Loading & Displaying fonts.%0a%3c * Atributes fonts.%0a%3c %0a%3c !!Finals%0a%3c * Entregar 3 versions impreses en A-4 %0a%3c * Video explicatiu del procés de creació. On hauran d'aparèixer els finals i les investigacions que s'hagen realitzat.%0a%3c * El codi creat per a la col·lecció haurà d'aparèixer al darrere. S'hauran d'incloure comentaris dins del codi per especificar i definir les parts de la programació.%0a%3c %0a%3c !!Treballs%0a---%0a> %0a> !!!Objectius%0a> %0a> !!!Continguts%0a> %0a> !!!Finals%0a> %0a> %0a> !!!Treballs%0a\ No newline at end of file%0a
+host:1449950448=5.40.51.1
+author:1449949658=larural
+diff:1449949658:1449949611:=1c1%0a%3c '+Creació d'una paraula a partir d'elements gràfics generatius.+'%0a---%0a> !!! Creació d'una paraula a partir d'elements gràfics generatius.%0a
+host:1449949658=5.40.51.1
+author:1449949611=larural
+diff:1449949611:1449948916:=1,12c1%0a%3c !!! Creació d'una paraula a partir d'elements gràfics generatius.%0a%3c %0a%3c La Paraula en Imatge consistix en relacionar concepte i forma. Utilitzant l'escriptura i tipografia com a eix central. %0a%3c %0a%3c !!!Objectius%0a%3c %0a%3c !!!Continguts%0a%3c %0a%3c !!!Finals%0a%3c %0a%3c %0a%3c !!!Treballs%0a\ No newline at end of file%0a---%0a> !!! La paraula en imatge%0a\ No newline at end of file%0a
+host:1449949611=5.40.51.1
+author:1449948916=larural
+diff:1449948916:1449948916:=1d0%0a%3c !!! La paraula en imatge%0a\ No newline at end of file%0a
+host:1449948916=5.40.51.1

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.44 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+author=arduina
+charset=UTF-8
+csum=
+ctime=1384815109
+host=88.27.208.228
+name=Main.Projecteambtinta
+rev=1
+targets=
+text='+Projecte per realitzar una interacció física amb tinta i leds.+'%0a%0aLa premisa principal és establir una relació conceptual, física i gràfica. Al voltant de la interacció.%0a%0a!!Objectius%0a* Conceptualitzar la relació que s'establix entre la representació i la interactivitat.%0a* Investigar al voltant dels materials,  sistemes d'alimentació junt als soports per al material de la tinta i leds.%0a%0a!!Continguts%0a* Entendre com funciona un circuit bàsic d'alimentació a partir d'uns leds i unes piles.%0a* Treballar amb materials i investigar al voltant de l'aplicació de la tinta buscant alternatives en la seua aplicació.%0a* Generar un projecte gràfic interactiu físic a partir d'uns leds i font d'alimentació. %0a%0a!!Finals%0a* Proposta amb objectius personals arran de la investigació en relació a l'objectiu gràfic i interactiu a conseguir. %0a* Documentar el procés a la wiki, constarà dels següents punts: %0a# Objectius (projecte personal, premisa d'eixida personal), %0a# Documentació del procés amb imatge, video,...  amb cites a la documentació en xarxa.%0a# Finals.%0a
+time=1384815109
+author:1384815109=arduina
+diff:1384815109:1384815109:=1,19d0%0a%3c '+Projecte per realitzar una interacció física amb tinta i leds.+'%0a%3c %0a%3c La premisa principal és establir una relació conceptual, física i gràfica. Al voltant de la interacció.%0a%3c %0a%3c !!Objectius%0a%3c * Conceptualitzar la relació que s'establix entre la representació i la interactivitat.%0a%3c * Investigar al voltant dels materials,  sistemes d'alimentació junt als soports per al material de la tinta i leds.%0a%3c %0a%3c !!Continguts%0a%3c * Entendre com funciona un circuit bàsic d'alimentació a partir d'uns leds i unes piles.%0a%3c * Treballar amb materials i investigar al voltant de l'aplicació de la tinta buscant alternatives en la seua aplicació.%0a%3c * Generar un projecte gràfic interactiu físic a partir d'uns leds i font d'alimentació. %0a%3c %0a%3c !!Finals%0a%3c * Proposta amb objectius personals arran de la investigació en relació a l'objectiu gràfic i interactiu a conseguir. %0a%3c * Documentar el procés a la wiki, constarà dels següents punts: %0a%3c # Objectius (projecte personal, premisa d'eixida personal), %0a%3c # Documentació del procés amb imatge, video,...  amb cites a la documentació en xarxa.%0a%3c # Finals.%0a
+host:1384815109=88.27.208.228

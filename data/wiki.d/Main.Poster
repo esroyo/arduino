@@ -1,0 +1,24 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1516088522
+host=5.40.185.191
+name=Main.Poster
+rev=4
+targets=
+text='+Poster+'%0a%0a%0a!!Objectius%0a%0a%0a!!Continguts%0a%0a%0a!!Finals%0a* Vídeo, pujat a una plataforma online.%0a* Final en paper.%0a%0a!!Treballs%0a*[['''Classic Silvia'''->https://youtu.be/JIQWjzhKr-E]], Silvia Garzó%0a*[['''Wild Flowers'''->https://vimeo.com/251230364]], Alexia Olcina%0a*[['''Fireworks Light'''->https://vimeo.com/251199926']], Laura Calbo%0a*[['''En el museo'''->https://vimeo.com/251247350]], Ana Tortosa%0a*[['''Sleeping Beauty'''->https://youtu.be/cvzJhnmdxBM]], Rosa Moltó%0a*[['''Residuos vertidos'''->https://youtu.be/Z95AJ10B3JQ]], Arturo Martínez%0a*[['''Pop design'''->https://vimeo.com/251233833]], Cristina Peinado%0a*[['''New York'''->https://youtu.be/EEqSSu6myv8]], Isabel Román%0a*[['''Market Hall'''->https://vimeo.com/251185838]], Hanna Hradovich%0a*[['''Fotosíntesis'''->https://vimeo.com/251058973]], Isabel Maria Ferrándiz%0a
+time=1517786506
+author:1517786506=larural
+diff:1517786506:1517785657:=
+host:1517786506=5.40.185.191
+author:1517785657=larural
+diff:1517785657:1516089201:=15d14%0a%3c *[['''Classic Silvia'''->https://youtu.be/JIQWjzhKr-E]], Silvia Garzó%0a
+host:1517785657=5.40.185.191
+author:1516089201=larural
+diff:1516089201:1516088522:=1,23c1%0a%3c '+Poster+'%0a%3c %0a%3c %0a%3c !!Objectius%0a%3c %0a%3c %0a%3c !!Continguts%0a%3c %0a%3c %0a%3c !!Finals%0a%3c * Vídeo, pujat a una plataforma online.%0a%3c * Final en paper.%0a%3c %0a%3c !!Treballs%0a%3c *[['''Wild Flowers'''->https://vimeo.com/251230364]], Alexia Olcina%0a%3c *[['''Fireworks Light'''->https://vimeo.com/251199926']], Laura Calbo%0a%3c *[['''En el museo'''->https://vimeo.com/251247350]], Ana Tortosa%0a%3c *[['''Sleeping Beauty'''->https://youtu.be/cvzJhnmdxBM]], Rosa Moltó%0a%3c *[['''Residuos vertidos'''->https://youtu.be/Z95AJ10B3JQ]], Arturo Martínez%0a%3c *[['''Pop design'''->https://vimeo.com/251233833]], Cristina Peinado%0a%3c *[['''New York'''->https://youtu.be/EEqSSu6myv8]], Isabel Román%0a%3c *[['''Market Hall'''->https://vimeo.com/251185838]], Hanna Hradovich%0a%3c *[['''Fotosíntesis'''->https://vimeo.com/251058973]], Isabel Maria Ferrándiz%0a---%0a> !!!!Poster%0a
+host:1516089201=83.42.205.142
+author:1516088522=larural
+diff:1516088522:1516088522:=1,2d0%0a%3c !!!!Poster%0a%3c  %0a\ No newline at end of file%0a
+host:1516088522=83.42.205.142

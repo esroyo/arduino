@@ -1,0 +1,15 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1506928317
+host=193.152.225.54
+name=Main.BookletPattern
+rev=1
+targets=
+text='+ Llibret / Booklet +'%0a
+time=1506928317
+author:1506928317=larural
+diff:1506928317:1506928317:=1d0%0a%3c '+ Llibret / Booklet +'%0a
+host:1506928317=193.152.225.54

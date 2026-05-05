@@ -1,0 +1,42 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+author=arduina
+charset=UTF-8
+csum=
+ctime=1506928789
+host=172.21.0.8
+name=Main.ElLlibretDelsMotius
+rev=10
+targets=
+text='+El llibret dels motius | The booklet of patterns +'%0a%0a!!Objectius%0a* Crear una sèrie de resultats gràfics a partir d’un motiu. %0a* Posar en pràctica una investigació plàstica de  la forma, el ritme, el traç, el color,.. segons les regles que es cree l’alumne. %0a* Maquetar i editar un Llibret amb format A5, amb diferents sketchs impresos jugant amb uns mateixos elements.%0a* Conceptualitzari donar-li sentit a les formes i a l’obra final el llibret.%0a%0a!!Continguts%0a* Utilització de variables.%0a* Crear un motiu utilitzant formes bàsiques de dibuix amb line(), rect(), ellipse().%0a* Construcció de la repetició utilitzant els bucles for(){}%0a* translate(), pushMatrix() popMatrix().%0a* propietats: scale(), rotate().%0a* Utilitzar la llibreria de pdf.%0a* Gestionar la memòria del programa amb el noLoop().%0a%0a%0a!!Finals%0a* Final imprès.%0a* vídeo explicatiu de creació i procés. Les parts del '''vídeo''', hauran d'integrar tot el procés de creació del concepte i documentar-lo, mitjantçant, els esbossos originals de la idea, la relació entre el concepte i el motiu, el procés de creació que ve marcat per la narrativa del llenguatge visual y els finals impresos. L'objectiu és crear un '''''document'''''.%0a*Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a%0a          /*%0a          Program Title: "Hello Earth"%0a          Program Description: Blue circle on black background%0a          By Ira Greenberg, August 5, 2005%0a          Comments: Our first Processing program- yippee!%0a          */%0a%0a!!Bibliografia%0a%0a*[[https://drive.google.com/file/d/0BxA8se8r6JKZWU1xcGNocjZULVU/view?usp=sharing | '''Processing A Programming Handbook for Visual Designers and Artists''']], Casey Reas. Control 2. Repetition. %0a%0a%0a!!Projectes%0a%0a*[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a*[['''Geometric'''->https://www.youtube.com/watch?v=n1NqidTaA-0&feature=youtu.be]], Silvia Garzó%0a*[['''La historia de la humanidad'''->https://youtu.be/BqoPzqAqrYM]], Arturo Martínez%0a*[['''Estados del mar'''->https://www.youtube.com/watch?v=RhqXLksOo6s]], Isabel María Ferrándiz%0a*[['''The patterns of water'''->https://vimeo.com/238491450]], Laura Calbo%0a*[['''Fenómenos naturales'''->https://vimeo.com/238493364]], Alexia Olcina%0a*[['''Fantasía 2017'''->https://www.youtube.com/watch?v=GfoIB-f7RRg&feature=youtu.be]],Rosa Moltó%0a*[['''El triángulo de las Bermudas'''->https://youtu.be/2NK0UcmgGEk]], Isabel Román %0a*[['''Partículas'''->https://vimeo.com/238492744]], Ana Tortosa%0a
+time=1561158405
+author:1561158405=arduina
+diff:1561158405:1517788609:=38c38%0a%3c *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a---%0a> *[['' '''->https://vimeo.com/246897271]], Cristina Peinado%0a
+host:1561158405=172.21.0.8
+author:1517788609=larural
+diff:1517788609:1517788568:=38c38%0a%3c *[['' '''->https://vimeo.com/246897271]], Cristina Peinado%0a---%0a> *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a
+host:1517788609=5.40.185.191
+author:1517788568=larural
+diff:1517788568:1508221516:=38d37%0a%3c *[['''The Wild Type'''->https://vimeo.com/246897271]], Cristina Peinado%0a
+host:1517788568=5.40.185.191
+author:1508221516=larural
+diff:1508221516:1508221222:=42,45c42%0a%3c *[['''Fenómenos naturales'''->https://vimeo.com/238493364]], Alexia Olcina%0a%3c *[['''Fantasía 2017'''->https://www.youtube.com/watch?v=GfoIB-f7RRg&feature=youtu.be]],Rosa Moltó%0a%3c *[['''El triángulo de las Bermudas'''->https://youtu.be/2NK0UcmgGEk]], Isabel Román %0a%3c *[['''Partículas'''->https://vimeo.com/238492744]], Ana Tortosa%0a---%0a> %0a
+host:1508221516=83.61.223.115
+author:1508221222=larural
+diff:1508221222:1507013603:=35,41d34%0a%3c %0a%3c !!Projectes%0a%3c %0a%3c *[['''Geometric'''->https://www.youtube.com/watch?v=n1NqidTaA-0&feature=youtu.be]], Silvia Garzó%0a%3c *[['''La historia de la humanidad'''->https://youtu.be/BqoPzqAqrYM]], Arturo Martínez%0a%3c *[['''Estados del mar'''->https://www.youtube.com/watch?v=RhqXLksOo6s]], Isabel María Ferrándiz%0a%3c *[['''The patterns of water'''->https://vimeo.com/238491450]], Laura Calbo%0a
+host:1508221222=83.61.223.115
+author:1507013603=larural
+diff:1507013603:1507013515:=33c33%0a%3c *[[https://drive.google.com/file/d/0BxA8se8r6JKZWU1xcGNocjZULVU/view?usp=sharing | '''Processing A Programming Handbook for Visual Designers and Artists''']], Casey Reas. Control 2. Repetition. %0a---%0a> *[[https://drive.google.com/open?id=0BxA8se8r6JKZWU1xcGNocjZULVU | '''Processing A Programming Handbook for Visual Designers and Artists''']], Casey Reas. Control 2. Repetition. %0a
+host:1507013603=83.56.224.192
+author:1507013515=larural
+diff:1507013515:1506932493:=33c33%0a%3c *[[https://drive.google.com/open?id=0BxA8se8r6JKZWU1xcGNocjZULVU | '''Processing A Programming Handbook for Visual Designers and Artists''']], Casey Reas. Control 2. Repetition. %0a---%0a> *'''Processing A Programming Handbook for Visual Designers and Artists''', Casey Reas. Control 2. Repetition. %0a
+host:1507013515=83.56.224.192
+author:1506932493=larural
+diff:1506932493:1506928926:=30,33d29%0a%3c %0a%3c !!Bibliografia%0a%3c %0a%3c *'''Processing A Programming Handbook for Visual Designers and Artists''', Casey Reas. Control 2. Repetition. %0a
+host:1506932493=193.152.225.54
+author:1506928926=larural
+diff:1506928926:1506928789:=21,29c21%0a%3c * vídeo explicatiu de creació i procés. Les parts del '''vídeo''', hauran d'integrar tot el procés de creació del concepte i documentar-lo, mitjantçant, els esbossos originals de la idea, la relació entre el concepte i el motiu, el procés de creació que ve marcat per la narrativa del llenguatge visual y els finals impresos. L'objectiu és crear un '''''document'''''.%0a%3c *Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a%3c %0a%3c           /*%0a%3c           Program Title: "Hello Earth"%0a%3c           Program Description: Blue circle on black background%0a%3c           By Ira Greenberg, August 5, 2005%0a%3c           Comments: Our first Processing program- yippee!%0a%3c           */%0a---%0a> * vídeo explicatiu de creació i procés.%0a
+host:1506928926=193.152.225.54
+author:1506928789=larural
+diff:1506928789:1506928789:=1,23d0%0a%3c '+El llibret dels motius | The booklet of patterns +'%0a%3c %0a%3c !!Objectius%0a%3c * Crear una sèrie de resultats gràfics a partir d’un motiu. %0a%3c * Posar en pràctica una investigació plàstica de  la forma, el ritme, el traç, el color,.. segons les regles que es cree l’alumne. %0a%3c * Maquetar i editar un Llibret amb format A5, amb diferents sketchs impresos jugant amb uns mateixos elements.%0a%3c * Conceptualitzari donar-li sentit a les formes i a l’obra final el llibret.%0a%3c %0a%3c !!Continguts%0a%3c * Utilització de variables.%0a%3c * Crear un motiu utilitzant formes bàsiques de dibuix amb line(), rect(), ellipse().%0a%3c * Construcció de la repetició utilitzant els bucles for(){}%0a%3c * translate(), pushMatrix() popMatrix().%0a%3c * propietats: scale(), rotate().%0a%3c * Utilitzar la llibreria de pdf.%0a%3c * Gestionar la memòria del programa amb el noLoop().%0a%3c %0a%3c %0a%3c !!Finals%0a%3c * Final imprès.%0a%3c * vídeo explicatiu de creació i procés.%0a%3c %0a%3c %0a
+host:1506928789=193.152.225.54

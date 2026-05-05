@@ -1,0 +1,45 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_8) AppleWebKit/534.50.2 (KHTML, like Gecko) Version/5.0.6 Safari/533.22.3
+author=arduina
+charset=UTF-8
+csum=
+ctime=1324742435
+host=88.27.63.31
+name=Taller.Materials
+rev=11
+targets=
+text=!!Basic%0a*placa arduino - [[http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg | arduino board]]%0a*USB cable%0a*placa proves - [[http://26.media.tumblr.com/tumblr_lwrf4jEV0W1r8m931o1_500.jpg | protoboard]]%0a*cables - [[http://25.media.tumblr.com/tumblr_lwrf2eFqGs1r8m931o1_500.jpg | jumper wires]]%0a%0a*[[http://27.media.tumblr.com/tumblr_lwrfywIWIY1r8m931o1_500.jpg | sealed relay]]%0a*[[http://30.media.tumblr.com/tumblr_lwrf6rZroy1r8m931o1_500.jpg | small servo motor]]%0a*LEDs%0a*[[http://24.media.tumblr.com/tumblr_lwrfzw3vlf1r8m931o1_500.jpg | LED tricolor]]%0a*sensor de temperatura%0a*DC toy motor%0a*[[http://30.media.tumblr.com/tumblr_lwrfrs6ZQH1r8m931o1_500.jpg | 8-bit shift register]]%0a*sensor de llum - [[http://24.media.tumblr.com/tumblr_lwrg1e2xb81r8m931o1_500.jpg | tilt sensor]]%0a*botons - [[http://24.media.tumblr.com/tumblr_lwrft5P47v1r8m931o1_500.jpg | push buttons switches]]%0a*potenciòmetre - [[http://26.media.tumblr.com/tumblr_lwrfv4fVFV1r8m931o1_500.jpg | potentiometer]]%0a*miniature photocell%0a*transistors%0a*[[http://26.media.tumblr.com/tumblr_lwrfjp9wxC1r8m931o1_500.jpg | Break-away headers]]%0a*diodes [[http://28.media.tumblr.com/tumblr_lwrfkpMtHb1r8m931o1_500.jpg | small signal diode]]%0a*[[http://26.media.tumblr.com/tumblr_lwrf9gB4fj1r8m931o1_500.jpg | 10k Ohm resistors]]%0a*[[http://25.media.tumblr.com/tumblr_lwrfayOK831r8m931o1_500.jpg | 330 Ohm resistors]]%0a*buzzer%0a*[[http://28.media.tumblr.com/tumblr_lwrffhsERC1r8m931o1_500.jpg | flex sensor]]%0a*[[http://30.media.tumblr.com/tumblr_lwrfdihqv01r8m931o1_500.jpg | softpot membrane potentiometer]]%0a%0a!!Accesoris per poder treballar%0a*ordinador with Windows, Linus or Mac%0a%0a''nota: la informació gràfica està extreta del [[http://arduins.tumblr.com/ | blog arduins ]]''%0a
+time=1324848763
+author:1324848763=arduina
+diff:1324848763:1324848706:=12c12%0a%3c *DC toy motor%0a---%0a> *[[ | DC toy motor]]%0a
+host:1324848763=88.27.63.31
+author:1324848706=arduina
+diff:1324848706:1324848390:=29,30d28%0a%3c %0a%3c ''nota: la informació gràfica està extreta del [[http://arduins.tumblr.com/ | blog arduins ]]''%0a
+host:1324848706=88.27.63.31
+author:1324848390=arduina
+diff:1324848390:1324848279:=27,28c27,28%0a%3c !!Accesoris per poder treballar%0a%3c *ordinador with Windows, Linus or Mac%0a---%0a> !!Requirements%0a> *computer with Windows, Linus or Mac%0a
+host:1324848390=88.27.63.31
+author:1324848279=arduina
+diff:1324848279:1324848214:=2c2%0a%3c *placa arduino - [[http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg | arduino board]]%0a---%0a> *placa arduino - [[http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg// | arduino board]]%0a4c4%0a%3c *placa proves - [[http://26.media.tumblr.com/tumblr_lwrf4jEV0W1r8m931o1_500.jpg | protoboard]]%0a---%0a> *placa proves - [[http://26.media.tumblr.com/tumblr_lwrf4jEV0W1r8m931o1_500.jpg// | protoboard]]%0a
+host:1324848279=88.27.63.31
+author:1324848214=arduina
+diff:1324848214:1324848209:=
+host:1324848214=88.27.63.31
+author:1324848209=arduina
+diff:1324848209:1324848135:=
+host:1324848209=88.27.63.31
+author:1324848135=arduina
+diff:1324848135:1324770338:=1,28c1%0a%3c !!Basic%0a%3c *placa arduino - [[http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg// | arduino board]]%0a%3c *USB cable%0a%3c *placa proves - [[http://26.media.tumblr.com/tumblr_lwrf4jEV0W1r8m931o1_500.jpg// | protoboard]]%0a%3c *cables - [[http://25.media.tumblr.com/tumblr_lwrf2eFqGs1r8m931o1_500.jpg | jumper wires]]%0a%3c %0a%3c *[[http://27.media.tumblr.com/tumblr_lwrfywIWIY1r8m931o1_500.jpg | sealed relay]]%0a%3c *[[http://30.media.tumblr.com/tumblr_lwrf6rZroy1r8m931o1_500.jpg | small servo motor]]%0a%3c *LEDs%0a%3c *[[http://24.media.tumblr.com/tumblr_lwrfzw3vlf1r8m931o1_500.jpg | LED tricolor]]%0a%3c *sensor de temperatura%0a%3c *[[ | DC toy motor]]%0a%3c *[[http://30.media.tumblr.com/tumblr_lwrfrs6ZQH1r8m931o1_500.jpg | 8-bit shift register]]%0a%3c *sensor de llum - [[http://24.media.tumblr.com/tumblr_lwrg1e2xb81r8m931o1_500.jpg | tilt sensor]]%0a%3c *botons - [[http://24.media.tumblr.com/tumblr_lwrft5P47v1r8m931o1_500.jpg | push buttons switches]]%0a%3c *potenciòmetre - [[http://26.media.tumblr.com/tumblr_lwrfv4fVFV1r8m931o1_500.jpg | potentiometer]]%0a%3c *miniature photocell%0a%3c *transistors%0a%3c *[[http://26.media.tumblr.com/tumblr_lwrfjp9wxC1r8m931o1_500.jpg | Break-away headers]]%0a%3c *diodes [[http://28.media.tumblr.com/tumblr_lwrfkpMtHb1r8m931o1_500.jpg | small signal diode]]%0a%3c *[[http://26.media.tumblr.com/tumblr_lwrf9gB4fj1r8m931o1_500.jpg | 10k Ohm resistors]]%0a%3c *[[http://25.media.tumblr.com/tumblr_lwrfayOK831r8m931o1_500.jpg | 330 Ohm resistors]]%0a%3c *buzzer%0a%3c *[[http://28.media.tumblr.com/tumblr_lwrffhsERC1r8m931o1_500.jpg | flex sensor]]%0a%3c *[[http://30.media.tumblr.com/tumblr_lwrfdihqv01r8m931o1_500.jpg | softpot membrane potentiometer]]%0a%3c %0a%3c !!Requirements%0a%3c *computer with Windows, Linus or Mac%0a---%0a> %25width=300px%25 http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg"Paper clips" |'''placa arduino uno'''%0a\ No newline at end of file%0a
+host:1324848135=88.27.63.31
+author:1324770338=arduina
+diff:1324770338:1324770242:=1c1%0a%3c %25width=300px%25 http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg"Paper clips" |'''placa arduino uno'''%0a\ No newline at end of file%0a---%0a> %25width=300px%25 http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg"Paper clips" | placa arduino uno%0a\ No newline at end of file%0a
+host:1324770338=88.27.63.31
+author:1324770242=arduina
+diff:1324770242:1324742567:=1d0%0a%3c %25width=300px%25 http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg"Paper clips" | placa arduino uno%0a\ No newline at end of file%0a
+host:1324770242=88.27.63.31
+author:1324742567=arduina
+diff:1324742567:1324742435:=0a1,5%0a> ||align-center width=100%25]]%0a> || %25newin%25[[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a> || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 || || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a> || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 || || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a> %0a
+host:1324742567=88.27.63.31
+author:1324742435=arduina
+diff:1324742435:1324742435:=1,5d0%0a%3c ||align-center width=100%25]]%0a%3c || %25newin%25[[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a%3c || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 || || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a%3c || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 || || %25newin%25[[Attach:http://24.media.tumblr.com/tumblr_lwpif2DjqC1r8m931o1_500.jpg]]%25%25 ||%0a%3c %0a
+host:1324742435=88.27.63.31

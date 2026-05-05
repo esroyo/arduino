@@ -1,0 +1,9 @@
+version=pmwiki-2.3.28 ordered=1 urlencoded=1
+author=simon
+charset=UTF-8
+csum=https (+9)
+name=PmWiki.PatrickMichaud
+rev=17
+targets=
+text=Patrick Michaud (Pm) is the author of PmWiki.  More information about him can be found at %25newwin%25https://www.pmichaud.com.
+time=1702758559

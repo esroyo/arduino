@@ -1,0 +1,14 @@
+version=pmwiki-2.2.33 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+author=simkin
+charset=UTF-8
+csum=
+ctime=1322465098
+host=127.0.0.1
+name=Site.BoiraPageActions
+rev=1
+targets=Site.BoiraPageActions
+text=(:Summary:Contains the '[[PmWiki/AvailableActions|action]]' links (like Browse, Edit, History, etc.), placed at the top of the page, see [[PmWiki/site page actions]]:)%0a(:comment This page can be somewhat complex to figure out the first time you see it. Its contents are documented at PmWiki.SitePageActions if you need help. :)%0a(:if [ ! equal {$Action} browse and ! equal {$Action} search ] :)%0a* %25item rel=nofollow class=browse    accesskey='$[ak_view]'%25      [[{*$FullName}               | $[View] ]]%0a(:ifend:)%0a(:if [ ! equal {$Action} edit and ! equal {$Action} search ]:)%0a* %25item rel=nofollow class=edit      accesskey='$[ak_edit]'%25      [[{*$FullName}?action=edit   | $[Edit] ]]%0a(:ifend:)%0a(:if ! equal {$Action} diff :)%0a* %25item rel=nofollow class=diff      accesskey='$[ak_history]'%25   [[{*$FullName}?action=diff   | $[History] ]]%0a(:ifend:)%0a(:if [ ! equal {$Action} upload and auth upload ] :)%0a* %25item rel=nofollow class=upload    accesskey='$[ak_attach]'%25    [[{*$FullName}?action=upload | $[Attach] ]]%0a(:ifend:)%0a* %25item rel=nofollow class=print     accesskey='$[ak_print]'%25     [[{*$FullName}?action=print  | $[Print] ]]%0a(:if [ group Site,SiteAdmin,Cookbook,Profiles,PmWiki* and ! equal {$Action} search ]:) (:comment delete if and ifend to enable backlinks:)%0a* %25item rel=nofollow class=backlinks accesskey='$[ak_backlinks]'%25 [[{*$Name}?action=search&q=link={*$FullName} | $[Backlinks] ]]%0a(:ifend:)%0a(:if authid:)%0a* %25item rel=nofollow class=logout accesskey='$[ak_logout]'%25 [-[[{$AuthorGroup}/{$AuthId}"{$AuthorGroup}{$AuthId}" |{$AuthId}]] [[{*$FullName}?action=logout"$[Logout]" |[X] ]]-]%0a(:elseif enabled AuthPw:)%0a* %25item rel=nofollow class=logout accesskey='$[ak_logout]'%25 [-{$Author} [[{*$FullName}?action=logout"$[Logout]" |[X] ]]-]%0a(:else:)%0a* %25item rel=nofollow class=login accesskey='$[ak_login]'%25 [-[[{*$FullName}?action=login"$[Login]" | $[Login]]]-]%0a(:ifend:)
+time=1322466191
+author:1322466191=simkin
+host:1322466191=127.0.0.1

@@ -1,0 +1,5 @@
+/* Mini Gallery */
+.mini { padding:2px; border:1px solid #dddddd; background-color:#ffffff; }
+.miniH, .miniF {display:block;}
+/* autotoc */
+table.frame { border-collapse: separate; border-spacing: 4px; }

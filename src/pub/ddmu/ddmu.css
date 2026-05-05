@@ -1,0 +1,16 @@
+.dropbasket { background: fixed url(down.png) center no-repeat; }
+#uv_pop iframe { border: none; }
+#DDMU {font-size:smaller; padding: 2px; margin: 2px 0px;}
+#DDMU a { padding-right: 18px; margin-right: 12px;}
+.ULsuccess a { cursor: pointer; color: green; background: url(ok.png) 100% 50% no-repeat;}
+.ULuploading a { cursor: progress; color: orange; font-style:italic; background: url(work.gif) 100% 50% no-repeat;}
+.ULbadname a, .ULbadtype a, .ULtoobig a, .ULtoobigext a, .ULpartial a, 
+  .ULnofile a, .ULexists a, .ULpquota a, .ULtquota a, .ULunknown_error a 
+  { color: red; text-decoration: line-through;  background: url(no.png) 100% 50% no-repeat;}
+.ULbadname a:hover, .ULbadtype a:hover, .ULtoobig a:hover, .ULtoobigext a:hover, .ULpartial a:hover, 
+  .ULnofile a:hover, .ULexists a:hover, .ULpquota a:hover, .ULtquota a:hover, .ULunknown_error a:hover
+  { cursor: pointer; background: url(del.png) 100% 50% no-repeat;}
+.ULlogin a { cursor: pointer; color: red; background: url(no.png) 100% 50% no-repeat; }
+
+.dropout { border: 2px solid #ccc; background: #fff; }
+.dropover { border: 2px solid green; background: #afa; }

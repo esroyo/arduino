@@ -1,0 +1,24 @@
+version=pmwiki-2.2.44 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+author=arduina
+charset=UTF-8
+csum=
+ctime=1384462456
+host=88.27.208.228
+name=PmWikiCa.LaNovaPagina
+rev=4
+targets=PmWikiCa.DrawMachine
+text=[[Draw Machine]]
+time=1384808973
+author:1384808973=arduina
+diff:1384808973:1384514884:=1c1%0a%3c [[Draw Machine]]%0a\ No newline at end of file%0a---%0a> [[Bibliografia]]%0a\ No newline at end of file%0a
+host:1384808973=88.27.208.228
+author:1384514884=arduina
+diff:1384514884:1384462585:=1c1%0a%3c [[Bibliografia]]%0a\ No newline at end of file%0a---%0a> [[Projecte amb tinta]]%0a\ No newline at end of file%0a
+host:1384514884=195.57.19.100
+author:1384462585=arduina
+diff:1384462585:1384462456:=1c1%0a%3c [[Projecte amb tinta]]%0a\ No newline at end of file%0a---%0a> Projecte amb tinta.%0a\ No newline at end of file%0a
+host:1384462585=88.27.208.228
+author:1384462456=arduina
+diff:1384462456:1384462456:=1d0%0a%3c Projecte amb tinta.%0a\ No newline at end of file%0a
+host:1384462456=88.27.208.228

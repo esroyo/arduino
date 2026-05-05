@@ -1,0 +1,5 @@
+#uv_pop{background:transparent !important; color:white !important; border:none !important; padding:0px !important;line-height:1;}
+#uv_pop div{font-size:smaller;}
+#uv_pop button{border:none; background:transparent; color:white; padding:0;}
+#uv_pop button:hover{color:red; background:silver; cursor:pointer;}
+#unav{float:right;}

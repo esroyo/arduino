@@ -1,0 +1,329 @@
+/***********************************************************************
+**  boira.css
+**  Copyright 2011 Carles Escrig (esroyo@gmail.com)
+**  based on pmwiki.css
+**  Copyright 2004-2006 Patrick R. Michaud (pmichaud@pobox.com)
+**  Copyright 2006 Hagan Fox
+**  This file is part of PmWiki; you can redistribute it and/or modify
+**  it under the terms of the GNU General Public License as published
+**  by the Free Software Foundation; either version 2 of the License, or
+**  (at your option) any later version.  See pmwiki.php for full details.
+***********************************************************************/
+
+/* This sets the overall frame for the site */
+html { height: 100%; }
+
+body {
+  background-color: #dedfde; 
+  font-family: sans, sans-serif, Arial;
+  margin: 0; padding: 0; height: 100%;
+}
+
+body, td, textarea, input, select { font-size: 13px; }
+body, textarea { line-height: 1.4em; }
+input, select { line-height: 15px; }
+
+/* wikiwrapper renders as a table so when we remove header
+ or footer it will still render 100% height */
+#wikiwrapper {
+  background: #fff; margin: 0 auto; width: 95%;
+  box-shadow: 0 2px 2px 0 #bbb; height: 100%;
+  display: table; overflow: hidden;
+}
+
+#wikiwrapper-header,
+#wikiwrapper-body,
+#wikiwrapper-footer {
+  display: table-row;
+  margin: 0; padding: 0;
+}
+
+#wikiwrapper-header {
+  background-color: #f7f7f7;
+  height: 65px; 
+}
+
+#wikiwrapper-footer {
+  background: #848684 url(images/topnav_inv.png) repeat-x bottom left;
+  height: 40px;
+}
+
+/* These control the fixed-width text elements of the page */
+textarea, pre, code { font-size: 95%; }
+pre, code { font-family:'Lucida Console','Andale Mono','Courier New',Courier,monospace; }
+pre { line-height:1.2em; }
+pre code, code code, pre pre { font-size:100%; }
+
+/* These primarily adjust the size and spacing of heading elements,
+** most browsers have atrocious defaults for these. */
+h1, h2, h3, h4, h5, h6 { margin-top:1.0em; margin-bottom:0.6em; font-weight: bold; }
+h1 code, h2 code, h3 code, h4 code { font-size: 100%; }
+h1 { font-size: 180%; }
+h2 { font-size: 140%; }
+h3 { font-size: 120%; }
+h4 { font-size: 107%; }
+h5 { font-size: 100%; }
+h6 { font-size: 100%; }
+
+/* The #wikihead holds #wikilogo and #wikisearch */
+#wikihead {
+  width: 100%; height: 64px; color: white; background-color: #bbb;
+  background: transparent url(images/topnav.png) repeat-x;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.5);
+  border-radius: 0 0 5px 5px;
+}
+
+/* The #wikilogo element is the logo from $PageLogoFmt */
+#wikilogo {
+  float: left; margin: 6px 10px;
+}
+
+/* This controls the rest of the heading (primarily the search box) */
+#wikisearch { 
+  float: right; margin: 10px 15px;
+}
+
+#wikimid { height: 100%; }
+
+/* These are for the left-sidebar. */
+#wikileft { 
+  width:155px; background: #f7f7f7;
+  padding:6px; line-height:1.5em;
+  font-size: 90%; overflow: visible;
+}
+#wikileft .vspace { margin-top:1.125em; }
+#wikileft a { text-decoration:none; color: #4a494a; padding: 3px; }
+#wikileft li:hover a, #wikileft li a:hover, #wikileft a:hover { color: black; }
+#wikileft ul { list-style:none; padding:0px; margin:0px; }
+#wikileft li { width: 100%; margin:0px; padding: 1px 0 1px 6px; }
+#wikileft li:hover { background: #fff; border-radius: 7px 0 0 7px;
+  box-shadow: -1px 1px 1px #ddd;}
+.sidehead {
+  margin:0px; padding:4px 2px 2px 2px;
+  font-size:115%; font-weight:bold; font-style:normal;
+  border-top: 1px dotted white;
+}
+#wikileft .sidehead a
+  { color: #4a494a; font-weight:bold; font-style:normal; }
+
+/* These affect the main content area. */
+#wikibody { 
+  padding:10px 20px; background-color:white; font-size: 100%;
+}
+#wikibody a,
+.wikitrail { color: #006af7; }
+#wikibody a:hover { text-decoration:none; }
+
+/* breadcrumbs will hold Page path and #wikicms */
+.breadcrumbs { padding: 5px 0 0 0; font-size: 90%;
+  color: #888; margin: 8px 8px 5px 0; border-bottom: 1px solid #e7e7e7;}
+#wikicmds { 
+  float:right; white-space:nowrap; font-size: 95%; 
+}
+#wikicmds ul { list-style:none; margin:0px; padding:0px; }
+#wikicmds li { display:inline; margin:0px 5px; }
+#wikicmds li a { text-decoration:none; color: #999; padding: 1px; }
+#wikicmds li a.createlinktext { border-bottom: 0px; !important }
+#wikicmds li a.createlink { display:none; }
+#wikicmds li a:hover { color: #333; border-bottom: 3px dotted rgba(0,0,0,0.05); }
+#wikibody .pagegroup { display: inline; }
+#wikibody .pagegroup a { text-decoration: none; color: #999; }
+#wikibody .pagegroup a:hover { color: #777; }
+
+.pagetitle { line-height: 1em; margin:0px; font-size: 180%; font-weight:normal; }
+
+/* messages shown before preview and edit textarea */
+.wikiaction, .wikimessage { font-size: 90%; color: #333; font-weight: bold;
+  padding: 0.2em 0.2em 0.2em 30px; min-height: 21px; border-radius: 5px 5px; }
+.wikiaction { box-shadow: 0px 1px 0 #edd400; margin-top: 0;
+  background: #fffbce url(images/dialog-information.png) no-repeat 2px 50%; 
+ }
+.wikimessage { box-shadow: 0px 1px 0 #f57900; margin: 4px 0 6px 0;
+  background: #ffe7c6 url(images/dialog-error.png) no-repeat 2px 50%; 
+ }
+
+#wikitext { margin:12px 0; line-height:1.33em; }
+#wikitext table { font-size:100%; line-height:1.33em; } /* For MSIE 5.5 */
+
+#wikiedit form { margin:0px; width:100%; }
+#wikiedit textarea#text { width: 100%; background: url(images/grid.png) repeat scroll top right; }
+#wikitext div.preview {
+  max-height: 200px; overflow: auto; width: 98%; border: 4px solid #ddd;
+  margin: 1em 0; padding: 0 0 0 0.6em; border-radius: 7px 7px;
+}
+
+/* preview: this is specific for this theme, it requires changes in Site.EditForm */
+#wikitext ul.preview { background: #deffde url(images/dialog-warning.png) no-repeat 5px 50%; 
+  border-radius: 5px 0 0 5px; min-height: 24px;
+  margin: 0.8em 0;
+  font-size: 75%; color: #13661e; box-shadow: 0px 1px 0 #00aa00;
+  list-style: none; padding: 1px 0 1px 40px; clear: both;
+}
+#wikitext ul.preview li { margin: 0; padding: 0; }
+
+/* quickref div */
+#wikitext #quickref {
+  width: 99%; padding: 0.2em; font-size: 90%; }
+#quickref input[name="quickref"] { margin-left: 3px; }
+#quickref input[name="quickref"]:checked + table { display: table; }
+#quickref input[name="quickref"] + table { display: none; }
+
+table.quickref { padding: 3px; width: 100%; }
+
+/* These affect the lines at the very bottom. */
+#wikifoot { 
+  padding: 0 10px 10px 10px; color: #eee; text-align: right;
+  font-size:85%; line-height: 1.33em; position: relative;
+}
+#wikifoot .footnav { color: #a5a2a5; margin-bottom: 0.8em; }
+#wikihead a,
+#wikifoot .lastmod,
+#wikifoot .credits,
+#wikifoot .credits a { color: #f7f7f7; text-decoration: none; 
+  text-shadow: 0 0 1px rgba(0,0,0,0.3); }
+#wikifoot .credits a:hover { text-shadow: 0 0 3px white; }
+#wikifoot .footnav a { color: #848684; text-decoration: none; 
+  background: white; border-radius: 0px 0px 5px 5px;
+  padding: 2px 9px; box-shadow: 0 .1em 0 rgba(0,0,0,0.2); }
+
+#wikifoot .footnav a:hover { color: #666;
+  box-shadow: 0 .15em .2em rgba(0,0,0,0.3); }
+
+#wikifoot .credits {
+  position: absolute; top: 0; left: 0;
+  padding: 1em; font-size: 90%; min-height: 31px;
+  vertical-align: middle; line-height: 0;
+  width: 155px; text-align: left;
+}
+#wikifoot .credits img { border: 0px; vertical-align: text-bottom; margin-right: 0.2em; } 
+#wikifoot .credits a.skin {
+-webkit-transform: rotate(-90deg);
+-moz-transform: rotate(-90deg);
+transform: rotate(-90deg);
+position: absolute;
+bottom: 50%;
+opacity: .5;
+}
+
+#wikifoot .credits a.skin:hover {
+-webkit-transform: rotate(-45deg);
+-moz-transform: rotate(-45deg);
+transform: rotate(-45deg);
+opacity: 1;
+}
+
+/* this affect the history view */
+#wikidiff .diffbox { width: 100%; border-left: 1px solid #d6d6b2; }
+#wikidiff .difftime { background-color: #efefde; padding: 1px 4px;
+  color: #8c8a63; }
+#wikidiff .difftime a { text-decoration: none; color: #313031; border-bottom: 1px dotted #bbbbbb; }
+#wikidiff .difftype { padding-left: 4px; }
+#wikidiff .difftime a:hover { background-color: #eee; color: #555; }
+#wikidiff .diffdel { padding-left: 5px; border-left: 5px solid #ffdfde; }
+#wikidiff .diffadd { padding-left: 5px; border-left: 5px solid #deffde; }
+#wikidiff .diffmarkup { font-size: 90%; }
+.diffmarkup { line-height: 1.7em; }
+#wikidiff .diffmarkup ins { margin: 1px; padding: 1px;
+  background: #deffde; border: 1px solid #00aa00; }
+#wikidiff .diffmarkup del { margin: 1px; padding: 1px;
+  background: #ffdfde; border: 1px solid #ce0000; }
+#wikidiff .diffrestore { font-size: 75%; margin: 0.5em 0 1.5em 0;}
+
+hr { border: 0; height: 1px; width: 100%; background: transparent url(images/points.png) repeat-x; }
+small { font-size: 85%; line-height: 1.5em; }
+
+
+/* this affect the pmwiki documentation */
+#wikitext .markup { border-spacing: 0; border: 0;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.08); background: url(images/grid.png); !important }
+
+#wikitext .markup .markup1,
+#wikitext .markup .markup2 {
+  margin: 3px 1px; padding: 5px;
+  background-color: #fff; color: #222;
+  border: 1px solid rgba(0,0,0,0.3);
+}
+
+#wikitext .horiz .markup2 { border-radius: 0 3px 3px 0; background: white; }
+#wikitext .vert .markup2 { border-radius: 0 0 3px 3px; background: white; }
+#wikitext .horiz .markup1 { border-radius: 3px 0 0 3px; background: transparent url(images/markup_horiz.png) no-repeat 98% 50%; border-right: 0px; !important }
+#wikitext .vert .markup1{ border-radius: 3px 3px 0 0; background: transparent url(images/markup_vert.png) no-repeat 99% 96%; border-bottom: 0px; padding-bottom: 10px; !important }
+
+#wikibody .wikitrail { margin: 5px; padding: 1px 4px; background-color: rgba(0,0,0,0.05); border-radius: 8px; font-size: 85%;box-shadow: 0 1px 0 rgba(0,0,0,0.1); display: inline-block; }
+#wikibody .wikitrail a { text-decoration: none; }
+#wikibody .wikitrail a:hover { text-decoration: underline; }
+.frame h1, .frame h2, .frame h3, .frame h4, .frame h5, .frame h6 { margin: 0.5em 0; }
+
+/* this affect the textarea, input, select elements */
+textarea, input, select { margin: 3px 1px; padding: 3px; }
+
+input[type="text"], input[type="password"], textarea {
+    -moz-box-sizing: border-box;
+}
+
+input[type="checkbox"], input[type="radio"] {
+    vertical-align: middle;
+}
+
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="button"], input[type="submit"], input[type="reset"], select {
+    background-color: #FFFFFF;
+    border-radius: 3px 3px 3px 3px;
+    border: 1px solid #cecfce;
+    color: #222; padding: 0.2em;
+    margin: 2px 0;
+}
+textarea { color: black; }
+
+input[type="text"], input[type="password"] {
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.08) inset;
+}
+
+input[type="text"]:hover, input[type="password"]:hover {
+    border-color: #999;
+}
+
+input[type="text"]:focus, input[type="password"]:focus {
+    border-color: #4a92ff;
+    box-shadow: 0 0 0 white inset;
+}
+
+input[type="submit"]{
+    margin: 6px 3px 6px 1px;
+    padding: 3px 8px;
+    background-color: #eee;
+    color: #333;
+    font-size: 90%;
+    font-weight: bold;
+    line-height: 20px;
+    min-width: 54px;
+    border: 1px solid #bdbebd;
+    border-radius: 2px;
+    text-align: center;
+}
+
+input[type="submit"]:hover {
+  background-color: #f8f8f8;
+  border: 1px solid #c6c6c6;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  color: #111;
+}
+
+input.searchbox { font-size: 105%; color: #444; }
+input.searchbutton {
+  color: white;
+  border: 1px solid #777;
+  padding-left: 24px;
+  background: #aaa url(images/search.png) no-repeat scroll 5px 50%;
+}
+
+input.searchbutton:hover {
+  background-color: #4a8eff;
+  border-color: #2959b5; color: white;
+}
+/* These affect the printed appearance of the web view (not the separate
+** print view) of pages.  The sidebar and action links aren't printed. */
+@media print {
+  body { width:auto; margin:0px; padding:0.5em; }
+  #wikihead, #wikileft, #wikicmds, .footnav { display:none; }
+  #wikifoot { padding:2px; }
+}

@@ -1,0 +1,15 @@
+version=pmwiki-2.2.65 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:32.0) Gecko/20100101 Firefox/32.0
+author=larural
+charset=UTF-8
+csum=
+ctime=1411384760
+host=90.169.193.88
+name=Main.Motiugeometric
+rev=1
+targets=
+text=hi
+time=1411384760
+author:1411384760=larural
+diff:1411384760:1411384760:=1d0%0a%3c hi%0a\ No newline at end of file%0a
+host:1411384760=90.169.193.88

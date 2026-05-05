@@ -1,0 +1,18 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+author=simkin
+charset=UTF-8
+csum=traducció
+ctime=1322416087
+host=95.169.240.79
+name=Site.BoiraXLPage
+rev=2
+targets=
+text=This page contais settings and strings for the Boira skin.%0a  [=%0a    # Define a custom pages.%0a    '{$SiteGroup}.BoiraEditForm' => '{$SiteGroup}.BoiraEditForm',%0a    '{$SiteGroup}.BoiraPageActions' => '{$SiteGroup}.BoiraPageActions',%0a    # Define skin string. Translate them:%0a    'Show edit quick reference' => 'Mostra la referència d'edició ràpida',%0a    'Help' => 'Ajuda'%0a  =]
+time=1323859498
+author:1323859498=simkin
+csum:1323859498=traducció
+diff:1323859498:1322466484:=7,8c7,8%0a%3c     'Show edit quick reference' => 'Mostra la referència d'edició ràpida',%0a%3c     'Help' => 'Ajuda'%0a---%0a>     'Show edit quick reference' => 'Show edit quick reference',%0a>     'Help' => 'Help'%0a
+host:1323859498=95.169.240.79
+author:1322466484=simkin
+host:1322466484=127.0.0.1

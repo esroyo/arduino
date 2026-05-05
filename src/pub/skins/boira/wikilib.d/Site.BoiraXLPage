@@ -1,0 +1,14 @@
+version=pmwiki-2.2.33 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (X11; Linux i686; rv:8.0.1) Gecko/20100101 Firefox/8.0.1
+author=simkin
+charset=UTF-8
+csum=
+ctime=1322416087
+host=127.0.0.1
+name=Site.BoiraXLPage
+rev=1
+targets=
+text=This page contais settings and strings for the Boira skin.%0a  [=%0a    # Define a custom pages.%0a    '{$SiteGroup}.BoiraEditForm' => '{$SiteGroup}.BoiraEditForm',%0a    '{$SiteGroup}.BoiraPageActions' => '{$SiteGroup}.BoiraPageActions',%0a    # Define skin string. Translate them:%0a    'Show edit quick reference' => 'Show edit quick reference',%0a    'Help' => 'Help'%0a  =]
+time=1322466484
+author:1322466484=simkin
+host:1322466484=127.0.0.1

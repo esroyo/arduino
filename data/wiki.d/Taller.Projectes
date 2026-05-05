@@ -1,0 +1,19 @@
+version=pmwiki-2.2.35 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Ubuntu; X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0
+author=carmela
+charset=UTF-8
+csum=
+ctime=1324324237
+host=217.168.15.131
+name=Taller.Projectes
+rev=2
+targets=
+text=(:Title Projectes realitzats en el taller:)
+time=1324324252
+title=Projectes realitzats en el taller
+author:1324324252=carmela
+diff:1324324252:1324324237:=1c1%0a%3c (:Title Projectes realitzats en el taller:)%0a\ No newline at end of file%0a---%0a> (:Projectes realitzats en el taller:)%0a\ No newline at end of file%0a
+host:1324324252=217.168.15.131
+author:1324324237=carmela
+diff:1324324237:1324324237:=1d0%0a%3c (:Projectes realitzats en el taller:)%0a\ No newline at end of file%0a
+host:1324324237=217.168.15.131

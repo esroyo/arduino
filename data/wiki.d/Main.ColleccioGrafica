@@ -1,0 +1,90 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1417163423
+host=5.40.185.191
+name=Main.ColleccioGrafica
+rev=26
+targets=
+text='+Creació d'una col·lecció d'elements gràfics construits amb paràmetres i variables canviants.+'%0a%0aLa Col·lecció gràfica consisteix en crear un document final imprès amb tantes variacions com siga adhié utilitzant el mateix 'objecte', on la variació dependrà de la construcció del mateix i l'estructuració del codi amb les variables.%0a%0a!!Objectius%0a* Relació entre el concepte i la gràfica generativa. S'ha d'establir un discurs gràfic a partir d'un concepte. A partir del qual s'ha de elaborar la col·lecció.%0a* Esbossar i definir un objecte gràfic.%0a* Relacionar i codificar la relació entre el objecte gràfic amb la programació: per definir les variables, la construcció de l'objecte i la construcció de les seues variacions.%0a* L'objecte integrament deurà d'estar construït en codi, amb Processing.%0a* Exportar i imprimir els arxius en .pdf%0a* Guardar l'arxiu en .pde%0a* Comunicar el projecte utilitzant el vídeo, per presentar-ho en la xarxa a la wiki.%0a%0a!!Continguts%0a* Utilitzar ''variables''.%0a* Treballar en estructures condicionals ''if'', estructures iteratives ''for'' i amb objectes class%0a* Treball en formes primitives, propietats i mètodes.%0a* Construcció de l'objecte amb ''class''.%0a* Function void.%0a* Utilitzar els vectors, vertex: ''vertex()'', ''bezierVertex()'', ''curveVertex()'', ''beginVertex()'',... %0a%0a!!Finals%0a* Entregar 1 versió impresa de 50x70cm., %0a* Deuen d'aparèixer tantes variacions com el/la dissenyador/a crega pertinent tenint en compte una justificació conceptual.%0a* El codi creat per a la col·lecció haurà d'aparèixer al darrere seguint l'estructura d'encapçalament que trobem a continuació. S'hauran d'incloure comentaris dins del codi per especificar i definir les parts de la programació.%0a%0a          /*%0a          Program Title: "Hello Earth"%0a          Program Description: Blue circle on black background%0a          By Ira Greenberg, August 5, 2005%0a          Comments: Our first Processing program- yippee!%0a          */%0a%0a*Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a%0a%0a%0a!!Treballs%0a*[['''Norway'''->https://vimeo.com/243564833]], Hanna Hradovich%0a*[['''La tardor'''->https://vimeo.com/242663163]], Laura Calbo%0a*[['''Rayos'''->https://www.youtube.com/watch?v=5T8p6fDUJ5A]], Isabel Roman%0a*[['''Faces'''->https://vimeo.com/242704584]], Cristina Peinado%0a*[['''Turtles'''->https://vimeo.com/242656304]], Alexia Olcina%0a*[['''Peackock Farm'''->https://www.youtube.com/watch?v=w_JWUrOO0VI&feature=youtu.be]], Arturo Martínez%0a*[['''Cactus'''->https://vimeo.com/242635751]], Isabel María Ferrándiz%0a*[['''Pulgas'''->https://vimeo.com/242701693]], Ana Tortosa%0a*[['''Llum, foc i destrucció'''->https://www.youtube.com/watch?v=uYpqqkFTopM]], Rosa Moltó%0a%0a-%0a*[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]], María Ibáñez%0a*[[''Alien''->https://vimeo.com/148593659]], Olga Valdés%0a*[[''Fried Eggs Everywhere''->https://vimeo.com/148533780]], Andreu Cuenca%0a*[[''Jellyfish''->https://vimeo.com/148602521]],Sonia Rama%0a*[[''Pacaman''->https://vimeo.com/148554179]], María Ibáñez%0a*[[''Fletxa''->https://vimeo.com/148562137]] Sara Belda%0a*[[''Pictogrames''->https://vimeo.com/148602449]], Olga Ruiz%0a*[[''Ships to sea''->https://vimeo.com/148407079]], Vanessa Jaijo%0a*[[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a*[[''Mask''->https://youtu.be/jTKeDneNykA]], Sila Özyildiz i Abdullah Çakmakoglu
+time=1517785594
+author:1517785594=larural
+diff:1517785594:1517784779:=
+host:1517785594=5.40.185.191
+author:1517784779=larural
+diff:1517784779:1511202404:=
+host:1517784779=5.40.185.191
+author:1511202404=larural
+diff:1511202404:1511202353:=43a44%0a> *[[]], Rosa Moltó%0a47c48%0a%3c *[['''Llum, foc i destrucció'''->https://www.youtube.com/watch?v=uYpqqkFTopM]], Rosa Moltó%0a---%0a> *[['''Llum, foc i destrucció'''->https://www.youtube.com/watch?v=uYpqqkFTopM]], Silvia Garzó%0a
+host:1511202404=5.40.185.208
+author:1511202353=larural
+diff:1511202353:1510644989:=39d38%0a%3c *[['''Norway'''->https://vimeo.com/243564833]], Hanna Hradovich%0a
+host:1511202353=5.40.185.208
+author:1510644989=larural
+diff:1510644989:1510644913:=41c41%0a%3c *[['''Faces'''->https://vimeo.com/242704584]], Cristina Peinado%0a---%0a> *[[]], Cristina Peinado%0a
+host:1510644989=83.37.195.106
+author:1510644913=larural
+diff:1510644913:1510644765:=39,40c39,40%0a%3c *[['''La tardor'''->https://vimeo.com/242663163]], Laura Calbo%0a%3c *[['''Rayos'''->https://www.youtube.com/watch?v=5T8p6fDUJ5A]], Isabel Roman%0a---%0a> *[[]], Laura Calbo%0a> *[[->]], Isabel Roman%0a47c47%0a%3c *[['''Llum, foc i destrucció'''->https://www.youtube.com/watch?v=uYpqqkFTopM]], Silvia Garzó%0a---%0a> *[[]], Silvia Garzó%0a
+host:1510644913=83.37.195.106
+author:1510644765=larural
+diff:1510644765:1510644602:=40c40%0a%3c *[[->]], Isabel Roman%0a---%0a> *[[]], Isabel Roman%0a42c42%0a%3c *[['''Turtles'''->https://vimeo.com/242656304]], Alexia Olcina%0a---%0a> *[[]], Alexia Olcina%0a44c44%0a%3c *[['''Peackock Farm'''->https://www.youtube.com/watch?v=w_JWUrOO0VI&feature=youtu.be]], Arturo Martínez%0a---%0a> *[[]], Arturo Martínez%0a46c46%0a%3c *[['''Pulgas'''->https://vimeo.com/242701693]], Ana Tortosa%0a---%0a> *[[]], Ana Tortosa%0a
+host:1510644765=83.37.195.106
+author:1510644602=larural
+diff:1510644602:1510644328:=39,48c39,43%0a%3c *[[]], Laura Calbo%0a%3c *[[]], Isabel Roman%0a%3c *[[]], Cristina Peinado%0a%3c *[[]], Alexia Olcina%0a%3c *[[]], Rosa Moltó%0a%3c *[[]], Arturo Martínez%0a%3c *[['''Cactus'''->https://vimeo.com/242635751]], Isabel María Ferrándiz%0a%3c *[[]], Ana Tortosa%0a%3c *[[]], Silvia Garzó%0a%3c %0a---%0a> *[[]],Alexia Olcina%0a> *[[]],Rosa Moltó%0a> *[[]],Arturo Martínez%0a> *[[]],Isabel María Ferrándiz%0a> *[[]],Ana Tortosa%0a
+host:1510644602=83.37.195.106
+author:1510644328=larural
+diff:1510644328:1510081912:=39,44c39%0a%3c *[[]],Alexia Olcina%0a%3c *[[]],Rosa Moltó%0a%3c *[[]],Arturo Martínez%0a%3c *[[]],Isabel María Ferrándiz%0a%3c *[[]],Ana Tortosa%0a%3c -%0a---%0a> %0a
+host:1510644328=83.37.195.106
+author:1510081912=larural
+diff:1510081912:1453401975:=19d18%0a%3c * Function void.%0a
+host:1510081912=5.40.185.208
+author:1453401975=Maria
+diff:1453401975:1453401965:=39c39%0a%3c *[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]], María Ibáñez%0a---%0a> *[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]] María Ibáñez%0a
+host:1453401975=188.77.69.233
+author:1453401965=Maria
+diff:1453401965:1453401863:=39c39%0a%3c *[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]] María Ibáñez%0a---%0a> *[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a
+host:1453401965=188.77.69.233
+author:1453401863=Maria
+diff:1453401863:1453401851:=39c39%0a%3c *[['''Pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a---%0a> *[['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a
+host:1453401863=188.77.69.233
+author:1453401851=Maria
+diff:1453401851:1450544307:=36c36,37%0a%3c %0a---%0a> [['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a> %0a39d39%0a%3c *[['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a
+host:1453401851=188.77.69.233
+author:1450544307=larural
+diff:1450544307:1450544296:=48c48%0a%3c *[[''Mask''->https://youtu.be/jTKeDneNykA]], Sila Özyildiz i Abdullah Çakmakoglu%0a\ No newline at end of file%0a---%0a> *[[''Mask''->https://youtu.be/jTKeDneNykA]], Sila Özyildiz i Abdullah ÇakmakoglU%0a\ No newline at end of file%0a
+host:1450544307=5.40.51.1
+author:1450544296=larural
+diff:1450544296:1449948313:=47,48c47%0a%3c *[[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a%3c *[[''Mask''->https://youtu.be/jTKeDneNykA]], Sila Özyildiz i Abdullah ÇakmakoglU%0a\ No newline at end of file%0a---%0a> *[[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a\ No newline at end of file%0a
+host:1450544296=5.40.51.1
+author:1449948313=larural
+diff:1449948313:1449837001:=40,47c40,47%0a%3c *[[''Alien''->https://vimeo.com/148593659]], Olga Valdés%0a%3c *[[''Fried Eggs Everywhere''->https://vimeo.com/148533780]], Andreu Cuenca%0a%3c *[[''Jellyfish''->https://vimeo.com/148602521]],Sonia Rama%0a%3c *[[''Pacaman''->https://vimeo.com/148554179]], María Ibáñez%0a%3c *[[''Fletxa''->https://vimeo.com/148562137]] Sara Belda%0a%3c *[[''Pictogrames''->https://vimeo.com/148602449]], Olga Ruiz%0a%3c *[[''Ships to sea''->https://vimeo.com/148407079]], Vanessa Jaijo%0a%3c *[[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a\ No newline at end of file%0a---%0a> [[''Alien''->https://vimeo.com/148593659]], Olga Valdés%0a> [[''Fried Eggs Everywhere''->https://vimeo.com/148533780]], Andreu Cuenca%0a> [[''Jellyfish''->https://vimeo.com/148602521]],Sonia Rama%0a> [[''Pacaman''->https://vimeo.com/148554179]], María Ibáñez%0a> [[''Fletxa''->https://vimeo.com/148562137]] Sara Belda%0a> [[''Pictogrames''->https://vimeo.com/148602449]], Olga Ruiz%0a> [[''Ships to sea''->https://vimeo.com/148407079]], Vanessa Jaijo%0a> [[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a\ No newline at end of file%0a
+host:1449948313=5.40.51.1
+author:1449837001=larural
+diff:1449837001:1449836958:=
+host:1449837001=195.57.19.96
+author:1449836958=larural
+diff:1449836958:1447420873:=36,47c36%0a%3c [['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a%3c %0a%3c !!Treballs%0a%3c %0a%3c [[''Alien''->https://vimeo.com/148593659]], Olga Valdés%0a%3c [[''Fried Eggs Everywhere''->https://vimeo.com/148533780]], Andreu Cuenca%0a%3c [[''Jellyfish''->https://vimeo.com/148602521]],Sonia Rama%0a%3c [[''Pacaman''->https://vimeo.com/148554179]], María Ibáñez%0a%3c [[''Fletxa''->https://vimeo.com/148562137]] Sara Belda%0a%3c [[''Pictogrames''->https://vimeo.com/148602449]], Olga Ruiz%0a%3c [[''Ships to sea''->https://vimeo.com/148407079]], Vanessa Jaijo%0a%3c [[''Cucurucho''->https://vimeo.com/148493355]], Paco Soler%0a\ No newline at end of file%0a---%0a> [['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a\ No newline at end of file%0a
+host:1449836958=195.57.19.96
+author:1447420873=larural
+diff:1447420873:1417164655:=34,36d33%0a%3c %0a%3c %0a%3c [['''pacman'''->https://www.dropbox.com/s/2ea6iwplm41qp8o/fantasma.zip?dl=0]]%0a\ No newline at end of file%0a
+host:1447420873=195.57.19.96
+author:1417164655=larural
+diff:1417164655:1417164633:=
+host:1417164655=90.169.193.88
+author:1417164633=larural
+diff:1417164633:1417164548:=18d17%0a%3c * Construcció de l'objecte amb ''class''.%0a
+host:1417164633=90.169.193.88
+author:1417164548=larural
+diff:1417164548:1417163673:=3,32c3%0a%3c La Col·lecció gràfica consisteix en crear un document final imprès amb tantes variacions com siga adhié utilitzant el mateix 'objecte', on la variació dependrà de la construcció del mateix i l'estructuració del codi amb les variables.%0a%3c %0a%3c !!Objectius%0a%3c * Relació entre el concepte i la gràfica generativa. S'ha d'establir un discurs gràfic a partir d'un concepte. A partir del qual s'ha de elaborar la col·lecció.%0a%3c * Esbossar i definir un objecte gràfic.%0a%3c * Relacionar i codificar la relació entre el objecte gràfic amb la programació: per definir les variables, la construcció de l'objecte i la construcció de les seues variacions.%0a%3c * L'objecte integrament deurà d'estar construït en codi, amb Processing.%0a%3c * Exportar i imprimir els arxius en .pdf%0a%3c * Guardar l'arxiu en .pde%0a%3c * Comunicar el projecte utilitzant el vídeo, per presentar-ho en la xarxa a la wiki.%0a%3c %0a%3c !!Continguts%0a%3c * Utilitzar ''variables''.%0a%3c * Treballar en estructures condicionals ''if'', estructures iteratives ''for'' i amb objectes class%0a%3c * Treball en formes primitives, propietats i mètodes.%0a%3c * Utilitzar els vectors, vertex: ''vertex()'', ''bezierVertex()'', ''curveVertex()'', ''beginVertex()'',... %0a%3c %0a%3c !!Finals%0a%3c * Entregar 1 versió impresa de 50x70cm., %0a%3c * Deuen d'aparèixer tantes variacions com el/la dissenyador/a crega pertinent tenint en compte una justificació conceptual.%0a%3c * El codi creat per a la col·lecció haurà d'aparèixer al darrere seguint l'estructura d'encapçalament que trobem a continuació. S'hauran d'incloure comentaris dins del codi per especificar i definir les parts de la programació.%0a%3c %0a%3c           /*%0a%3c           Program Title: "Hello Earth"%0a%3c           Program Description: Blue circle on black background%0a%3c           By Ira Greenberg, August 5, 2005%0a%3c           Comments: Our first Processing program- yippee!%0a%3c           */%0a%3c %0a%3c *Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a---%0a> La Col·lecció gràfica consisteix en crear un document final imprès amb tantes variacions com siga adhié utilitzant el mateix 'objecte', on la variació dependrà de la construcció del mateix i l'estructuració del codi amb les variables.%0a\ No newline at end of file%0a
+host:1417164548=90.169.193.88
+author:1417163673=larural
+diff:1417163673:1417163487:=1,3c1%0a%3c '+Creació d'una col·lecció d'elements gràfics construits amb paràmetres i variables canviants.+'%0a%3c %0a%3c La Col·lecció gràfica consisteix en crear un document final imprès amb tantes variacions com siga adhié utilitzant el mateix 'objecte', on la variació dependrà de la construcció del mateix i l'estructuració del codi amb les variables.%0a\ No newline at end of file%0a---%0a> Creació d'una col·lecció d'elements gràfics construits amb paràmetres i variables canviants.%0a\ No newline at end of file%0a
+host:1417163673=90.169.193.88
+author:1417163487=larural
+diff:1417163487:1417163423:=1d0%0a%3c Creació d'una col·lecció d'elements gràfics construits amb paràmetres i variables canviants.%0a\ No newline at end of file%0a
+host:1417163487=90.169.193.88
+author:1417163423=larural
+diff:1417163423:1417163423:=
+host:1417163423=90.169.193.88

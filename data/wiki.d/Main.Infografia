@@ -1,0 +1,45 @@
+version=pmwiki-2.2.88 ordered=1 urlencoded=1
+agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.95 Safari/537.36
+author=larural
+charset=UTF-8
+csum=
+ctime=1478081329
+host=83.52.44.187
+name=Main.Infografia
+rev=11
+targets=
+text='+Infografia+'%0a%0aConceptualitzar i generar una infografia gràfica a partir d'unes dades.%0a%0a!!Objectius%0a* Relacionar concepte i forma.%0a* Saber explicar i relacionar les dades de forma visual connectant conceptes i formes.%0a* Esbossar i definir els elements principals de la infografia.%0a* Definir els conceptes en variables i generar el codi.%0a* Codificar i dissenyar a partir d'elements vectorials creats en Processing i Illustrator o Inkscape.%0a%0a!!Continguts%0a* Conceptualitzar: a partir de conceptes abstractes i pràctics relacionar les dades i pensar com explicar-les gràficament.%0a* Estructurar i codificar els conceptes mitjantçant el ús de la programació. Estructures de iteració per recòrrer les dades (@for@) ; enmagatzemar les dades (@array@) ; treballar en una programació modular (@void@)%0a* Treballar amb vectors: @vertex()@, @curveVertex()@, @bezier()@.%0a* Treballar amb les propietats dels vectors: @stroke, @strokeWidth@, @fill()@,...%0a%0a!!Finals%0a* Entregar 1 infografia.%0a* Impresa en format A3.%0a* Es colocarà en el mateix document imprés el motiu i just davall es reservarà un espai per el codi, que també haurà d'apareixer amb el següent encapçalanent.%0a          /*%0a          Program Title: "Hello Earth"%0a          Program Description: Blue circle on black background%0a          By Ira Greenberg, August 5, 2005%0a          Comments: Our first Processing program- yippee!%0a          */%0a* Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a* Les parts del vídeo, hauran d'integrar tot el procés de creació del concepte i documentar-lo, mitjantçant, els esbossos originals de la idea, la relació entre el concepte i el motiu, el procés de creació que ve marcat per la narrativa del llenguatge visual y els finals impresos. L'objectiu és crear un document.%0a%0a!!Treballs%0a%0a*Elisa López, [[https://vimeo.com/193995113 | Jornada laboral]]%0a*Ana Aldeguer, [[https://vimeo.com/193999689 | Cambios y abandonos de Estudios en la EASDAlcoi]]%0a*Lorena Abellán, [[https://www.youtube.com/watch?v=fayu8M4v1do&feature=youtu.be | League of Lengends]]%0a*Eric Bertó, [[ https://vimeo.com/193943215| Kitten Activity]]%0a*Jesús Rubio, [[https://vimeo.com/user59655207 | Smartphones for Anybody]]%0a*Diego Sintas, [[https://vimeo.com/193970507 | Rock time]]%0a*Jamal, [[https://vimeo.com/194246755 | Futbol]]
+time=1485520083
+author:1485520083=larural
+diff:1485520083:1480678033:=38,39c38%0a%3c *Diego Sintas, [[https://vimeo.com/193970507 | Rock time]]%0a%3c *Jamal, [[https://vimeo.com/194246755 | Futbol]]%0a\ No newline at end of file%0a---%0a> *Diego Sintas, [[https://vimeo.com/193970507 | Rock time]]%0a\ No newline at end of file%0a
+host:1485520083=83.52.44.187
+author:1480678033=Elisa
+diff:1480678033:1480676054:minor=33d32%0a%3c *Elisa López, [[https://vimeo.com/193995113 | Jornada laboral]]%0a
+host:1480678033=83.41.137.72
+author:1480676054=Diego Sintas
+diff:1480676054:1480663619:=34a35%0a> *Diego Sinta, [[https://vimeo.com/193970507 | Rock time]]%0a
+host:1480676054=80.39.153.47
+author:1480663619=larural
+diff:1480663619:1480639919:=33,35d32%0a%3c *Ana Aldeguer, [[https://vimeo.com/193999689 | Cambios y abandonos de Estudios en la EASDAlcoi]]%0a%3c *Lorena Abellán, [[https://www.youtube.com/watch?v=fayu8M4v1do&feature=youtu.be | League of Lengends]]%0a%3c *Diego Sinta, [[https://vimeo.com/193970507 | Rock time]]%0a
+host:1480663619=83.41.137.72
+author:1480639919=Diego Sintas
+diff:1480639919:1480628569:=34,35c34%0a%3c *Jesús Rubio, [[https://vimeo.com/user59655207 | Smartphones for Anybody]]%0a%3c *Diego Sintas, [[https://vimeo.com/193970507 | Rock time]]%0a\ No newline at end of file%0a---%0a> *Jesús Rubio, [[https://vimeo.com/user59655207 | Smartphones for Anybody]]%0a\ No newline at end of file%0a
+host:1480639919=80.39.153.47
+author:1480628569=larural
+diff:1480628569:1480628360:=33,34c33%0a%3c *Eric Bertó, [[ https://vimeo.com/193943215| Kitten Activity]]%0a%3c *Jesús Rubio, [[https://vimeo.com/user59655207 | Smartphones for Anybody]]%0a\ No newline at end of file%0a---%0a> *Eric Bertó,[[ https://vimeo.com/193943215| Kitten Activity]]%0a\ No newline at end of file%0a
+host:1480628569=5.40.185.4
+author:1480628360=larural
+diff:1480628360:1478081969:=30,33d29%0a%3c %0a%3c !!Treballs%0a%3c %0a%3c *Eric Bertó,[[ https://vimeo.com/193943215| Kitten Activity]]%0a\ No newline at end of file%0a
+host:1480628360=5.40.185.4
+author:1478081969=larural
+diff:1478081969:1478081931:=12c12%0a%3c !!Continguts%0a---%0a>  !!Continguts%0a
+host:1478081969=213.99.53.246
+author:1478081931=larural
+diff:1478081931:1478081546:=12,29c12%0a%3c  !!Continguts%0a%3c * Conceptualitzar: a partir de conceptes abstractes i pràctics relacionar les dades i pensar com explicar-les gràficament.%0a%3c * Estructurar i codificar els conceptes mitjantçant el ús de la programació. Estructures de iteració per recòrrer les dades (@for@) ; enmagatzemar les dades (@array@) ; treballar en una programació modular (@void@)%0a%3c * Treballar amb vectors: @vertex()@, @curveVertex()@, @bezier()@.%0a%3c * Treballar amb les propietats dels vectors: @stroke, @strokeWidth@, @fill()@,...%0a%3c %0a%3c !!Finals%0a%3c * Entregar 1 infografia.%0a%3c * Impresa en format A3.%0a%3c * Es colocarà en el mateix document imprés el motiu i just davall es reservarà un espai per el codi, que també haurà d'apareixer amb el següent encapçalanent.%0a%3c           /*%0a%3c           Program Title: "Hello Earth"%0a%3c           Program Description: Blue circle on black background%0a%3c           By Ira Greenberg, August 5, 2005%0a%3c           Comments: Our first Processing program- yippee!%0a%3c           */%0a%3c * Presentació es realitzarà en classe mitjantçant els finals i un vídeo on es contextualitze el treball, i es descriga el procés de creació amb els finals.%0a%3c * Les parts del vídeo, hauran d'integrar tot el procés de creació del concepte i documentar-lo, mitjantçant, els esbossos originals de la idea, la relació entre el concepte i el motiu, el procés de creació que ve marcat per la narrativa del llenguatge visual y els finals impresos. L'objectiu és crear un document.%0a---%0a>  !!%0a\ No newline at end of file%0a
+host:1478081931=213.99.53.246
+author:1478081546=larural
+diff:1478081546:1478081329:=1,12c1%0a%3c '+Infografia+'%0a%3c %0a%3c Conceptualitzar i generar una infografia gràfica a partir d'unes dades.%0a%3c %0a%3c !!Objectius%0a%3c * Relacionar concepte i forma.%0a%3c * Saber explicar i relacionar les dades de forma visual connectant conceptes i formes.%0a%3c * Esbossar i definir els elements principals de la infografia.%0a%3c * Definir els conceptes en variables i generar el codi.%0a%3c * Codificar i dissenyar a partir d'elements vectorials creats en Processing i Illustrator o Inkscape.%0a%3c %0a%3c  !!%0a\ No newline at end of file%0a---%0a> Infografia%0a
+host:1478081546=213.99.53.246
+author:1478081329=larural
+diff:1478081329:1478081329:=1d0%0a%3c Infografia%0a
+host:1478081329=213.99.53.246
